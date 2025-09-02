@@ -5,7 +5,7 @@ A passionate CS Engineer || App Developer
 - 🔭 **I’m currently working on:** That's a Secret
 - 🌱 **I’m currently learning:** App Development with Kotlin
 - 📫 **How to reach me:** miftahurr503@gmail.com (some links are given below)
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+- ⚡ **Fun fact:** I break things… just to make them better 🔧
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mr.swapnil360) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/callme_swap) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:miftahurr503@gmail.com) 
