@@ -1,10 +1,10 @@
 # 💫 Hi 👋, I'm Swapnil
 A passionate CS Engineer || App Developer
 
-Email Me 👉 ✉️ **miftahurr503@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** That's a Secret
 - 🌱 **I’m currently learning:** App Development with Kotlin
+- 📫 **How to reach me:** miftahurr503@gmail.com (some links are given below)
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
 ## 🌐 Socials:
