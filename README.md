@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm Swapnil
+#  Hi , I'm Swapnil
 A passionate CS Engineer || App Developer
 
 
