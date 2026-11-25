@@ -1,35 +1,95 @@
-#  Hi , I'm Swapnil
-A passionate CS Engineer || App Developer
-
-
-- 🔭 **I’m currently working on:** That's a Secret
-- 🌱 **I’m currently learning:** App Development with Kotlin
-- 📫 **How to reach me:** miftahurr503@gmail.com (some links are given below)
-- ⚡ **Fun fact:** I break things… just to make them better 🔧
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mr.swapnil360) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/callme_swap) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:miftahurr503@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-<!-- Snake Game Repo View -->
-
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+
+# Md. Miftahur Rahman Swapnil
+
+**CS Engineer · Full-Stack & Mobile App Developer · AI Systems Builder**
+
+Building end-to-end web platforms, mobile applications, and AI-powered tools—from intuitive interfaces to scalable backends.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-mrswapnil.me-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mrswapnil.me)
+[![Email](https://img.shields.io/badge/Email-miftahurr503%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:miftahurr503@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mr-swapnil/)
+
 </div>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Swapnil-360&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Swapnil-360&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Swapnil-360&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## About Me
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Swapnil-360&limit=5&theme=dark&combine_all_yearly_contributions=true)
+- **Focus Areas:** Full-Stack Web Development (TypeScript / Next.js), Mobile App Development (Kotlin, Flutter, Expo), and AI/ML Systems.
+- **Engineering Approach:** Shipping complete, production-ready products—combining clean UI/UX, reliable APIs, and modern databases.
+- **Availability:** Open to **Software Engineering**, **Full-Stack**, **Mobile**, and **AI/ML** roles & internships.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Swapnil-360&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Featured Projects
+
+| Project | Description | Tech Stack | Links |
+| :--- | :--- | :--- | :--- |
+| **Mikasa (`personal-ai-assistant`)** | Personal AI Operating System & autonomous companion built for daily workflows and automation. | `JavaScript` · AI Agents | [GitHub](https://github.com/Swapnil-360/personal-ai-assistant) |
+| **OpusGenAi** | Generative AI web application and platform. | `TypeScript` | [GitHub](https://github.com/Swapnil-360/OpusGenAi) · [Live](https://opusgenai.com) |
+| **Edu51Portal** | Web portal built for educational workflows and student/academic access. | `TypeScript` | [GitHub](https://github.com/Swapnil-360/Edu51Portal) · [Live](https://edu51portal.live) |
+| **Stark-OS Portfolio** | Iron Man Stark-OS themed interactive developer portfolio with database-backed content. | `Next.js 14` · `TypeScript` · `Supabase` | [GitHub](https://github.com/Swapnil-360/stark-os-portfolio) · [Live](https://stark-os-portfolio.vercel.app) |
+| **Netflix-Style Portfolio** | Cinematic, episode-driven interactive portfolio experience. | `TypeScript` | [GitHub](https://github.com/Swapnil-360/Portfolio-Netflix-Style-) · [Live](https://portfolio-netflix-style-sigma.vercel.app) |
+| **MuteBD** | Native Android mobile application. | `Kotlin` · Android | [GitHub](https://github.com/Swapnil-360/MuteBD) |
+| **3D Escape Room Game** | Interactive 3D graphics game built from scratch. | `C++` · `OpenGL` | [GitHub](https://github.com/Swapnil-360/3D-Escape-Room-Game-OpenGL-C-) |
+
+---
+
+## Technical Skills
+
+**Languages**
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+
+**Frontend & Mobile**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-1C1E24?style=for-the-badge&logo=expo&logoColor=white)
+
+**Backend & Databases**
+
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**Tools & Infrastructure**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+
+---
+
+## Education & Experience
+
+<!-- TODO: Fill in your university, degree, and any internships or achievements -->
+- **B.Sc. in Computer Science & Engineering** — *[Your University Name]* (`Expected 20XX`)
+- **Experience / Achievements:** *[Add internships, freelance projects, or hackathon/competition highlights]*
+
+---
+
+## GitHub Activity
+
+<div align="center">
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=Swapnil-360&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Swapnil's GitHub Stats" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swapnil-360&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Swapnil's Top Languages" />
+</div>
+
+---
+
+<div align="center">
+  <strong>Let's build something impactful together.</strong><br/>
+  Reach out at <a href="mailto:miftahurr503@gmail.com">miftahurr503@gmail.com</a> or visit <a href="https://mrswapnil.me">mrswapnil.me</a>
+</div>
