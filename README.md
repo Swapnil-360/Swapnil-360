@@ -26,7 +26,7 @@ Building end-to-end web platforms, mobile applications, and AI-powered tools—f
 
 | Project | Description | Tech Stack | Links |
 | :--- | :--- | :--- | :--- |
-| **Pockit** | Bilingual student money & financial risk coach with a 22-feature ML risk classifier, Gemini AI advisor, mobile app, and admin panel. | `React Native (Expo)` · `TypeScript` · `FastAPI` · `Python` · `Supabase` | *Private Repo (In Development)* |
+| **Pockit** | Bilingual student money & financial risk coach with a 22-feature ML risk classifier, Gemini AI advisor, mobile app, and admin panel. | `React Native (Expo)` · `TypeScript` · `FastAPI` · `Python` · `Supabase` | [GitHub](https://github.com/Swapnil-360/pockit-student-finance) |
 | **Mikasa (`personal-ai-assistant`)** | Personal AI Operating System & autonomous companion built for daily workflows and automation. | `JavaScript` · AI Agents | [GitHub](https://github.com/Swapnil-360/personal-ai-assistant) |
 | **OpusGenAi** | Generative AI web application and platform. | `TypeScript` | [GitHub](https://github.com/Swapnil-360/OpusGenAi) · [Live](https://opusgenai.com) |
 | **Edu51Portal** | Web portal built for educational workflows and student/academic access. | `TypeScript` | [GitHub](https://github.com/Swapnil-360/Edu51Portal) · [Live](https://edu51portal.live) |
