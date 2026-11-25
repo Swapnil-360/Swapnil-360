@@ -26,6 +26,7 @@ Building end-to-end web platforms, mobile applications, and AI-powered tools—f
 
 | Project | Description | Tech Stack | Links |
 | :--- | :--- | :--- | :--- |
+| **Pockit** | Bilingual student money & financial risk coach with a 22-feature ML risk classifier, Gemini AI advisor, mobile app, and admin panel. | `React Native (Expo)` · `TypeScript` · `FastAPI` · `Python` · `Supabase` | *Private Repo (In Development)* |
 | **Mikasa (`personal-ai-assistant`)** | Personal AI Operating System & autonomous companion built for daily workflows and automation. | `JavaScript` · AI Agents | [GitHub](https://github.com/Swapnil-360/personal-ai-assistant) |
 | **OpusGenAi** | Generative AI web application and platform. | `TypeScript` | [GitHub](https://github.com/Swapnil-360/OpusGenAi) · [Live](https://opusgenai.com) |
 | **Edu51Portal** | Web portal built for educational workflows and student/academic access. | `TypeScript` | [GitHub](https://github.com/Swapnil-360/Edu51Portal) · [Live](https://edu51portal.live) |
@@ -58,6 +59,7 @@ Building end-to-end web platforms, mobile applications, and AI-powered tools—f
 **Backend & Databases**
 
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
